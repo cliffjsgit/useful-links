@@ -1,4 +1,7 @@
-1. ACC   
+#### ITSE-1042 Intermediate Python Useful Links
+https://github.com/cliffjsgit/useful-links/edit/master/links.md
+
+1. Austin Community College   
 - Welcome to ACCmail
    - https://www.austincc.edu/help/accmail   
 - Forward ACCmail to another mail account
@@ -29,3 +32,6 @@
 - PythonAnywhere Login 
    - https://www.pythonanywhere.com/login/   
 
+4. Class 1 Slides, Tutorial for using Git and GitHub
+- https://github.com/cliffjsgit/class1-slides
+- https://github.com/cliffjsgit/git-tutorials
