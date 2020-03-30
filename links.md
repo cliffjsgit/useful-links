@@ -1,0 +1,5 @@
+- Linux GNU nano editor document - https://www.nano-editor.org/dist/latest/nano.html#Introduction   
+- Beginner’s Guide to Nano, the Linux Command-Line Text Editor - https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/   
+- The Linux Command Line - By William Shotts   
+   - LinuxCommand.org Online - http://linuxcommand.org/index.php   
+   - SOURCEFORGE LinuxCommand PDF file - https://sourceforge.net/projects/linuxcommand/   
