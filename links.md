@@ -30,8 +30,16 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - PythonAnywhere Cloud Environment
    - https://www.pythonanywhere.com/   
 - PythonAnywhere Login 
-   - https://www.pythonanywhere.com/login/   
+   - https://www.pythonanywhere.com/login/  
+- PythonAnywhere Help 
+   - https://help.pythonanywhere.com/pages/ 
+- PythonAnywhere Dashboard 
+   - https://www.pythonanywhere.com/user/your-account-name/
+- PythonAnywhere Account - Upgrade/Downgrade your account
+   - https://www.pythonanywhere.com/user/your-account-name/account/#upgrade
+- PythonAnywhere Account - Nominate your teacher
+   - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
 
-4. Class 1 Slides, Tutorial for using Git and GitHub
+4. Class 1 Slides, Git Tutorials 
 - https://github.com/cliffjsgit/class1-slides
 - https://github.com/cliffjsgit/git-tutorials
