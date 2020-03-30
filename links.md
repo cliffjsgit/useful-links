@@ -33,11 +33,11 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://www.pythonanywhere.com/login/  
 - PythonAnywhere Help 
    - https://help.pythonanywhere.com/pages/ 
-- PythonAnywhere Dashboard 
+- PythonAnywhere Dashboard  (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/
-- PythonAnywhere Account - Upgrade/Downgrade your account
+- PythonAnywhere Account - Upgrade/Downgrade your account (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/account/#upgrade
-- PythonAnywhere Account - Nominate your teacher
+- PythonAnywhere Account - Nominate your teacher (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
 
 4. Class 1 Slides, Git Tutorials 
