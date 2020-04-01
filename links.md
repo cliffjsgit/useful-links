@@ -7,17 +7,23 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - Forward ACCmail to another mail account
    - https://www.austincc.edu/help/accmail/forward-accmail   
 - ACC Online 
-   - https://acconline.austincc.edu/ 
-- Blackboard Help
-   - https://help.blackboard.com/   
-- Blackboard Learn Help for Students   
-   - https://help.blackboard.com/Learn/Student?utm_medium=Learn&utm_campaign=Product_link&utm_content=Student
+   - https://acconline.austincc.edu/   
 - Collaborate Ultra Experience Help
    - https://help.blackboard.com/Collaborate/Ultra  
 - Python Development
    - http://continue.austincc.edu/python
+
+2. Blackboard   
+- Blackboard Help
+   - https://help.blackboard.com/   
+- Blackboard Learn Help for Students   
+   - https://help.blackboard.com/Learn/Student?utm_medium=Learn&utm_campaign=Product_link&utm_content=Student
+- Blackboard Collaborate Ultra Experience Help
+   - https://help.blackboard.com/Collaborate/Ultra  
+   - https://help.blackboard.com/Collaborate/Ultra/Participant
+   - https://help.blackboard.com/Learn/Student/Interact/Blackboard_Collaborate/Blackboard_Collaborate_With_The_Ultra_Experience 
    
-2. Linux
+3. Linux
 - Linux GNU nano editor document    
    - https://www.nano-editor.org/dist/latest/nano.html
 - Beginner’s Guide to Nano, the Linux Command-Line Text Editor   
@@ -26,7 +32,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - LinuxCommand.org Online - http://linuxcommand.org/     
    - SOURCEFORGE LinuxCommand Line PDF file - https://sourceforge.net/projects/linuxcommand/   
    
-3. Python 
+4. Python 
 - PythonAnywhere Cloud Environment
    - https://www.pythonanywhere.com/   
 - PythonAnywhere Login 
@@ -40,6 +46,6 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - PythonAnywhere Account - Nominate your teacher (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
 
-4. Class 1 Slides, Git Tutorials 
+5. Class 1 Slides, Git Tutorials 
 - https://github.com/cliffjsgit/class1-slides
 - https://github.com/cliffjsgit/git-tutorials
