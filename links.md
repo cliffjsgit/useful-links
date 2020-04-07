@@ -53,6 +53,9 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - Class 2 Slides, Python Review Labs
    - https://github.com/cliffjsgit/python-review
    - https://github.com/cliffjsgit/class2-slides
+   - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
+
+
 
 
 
