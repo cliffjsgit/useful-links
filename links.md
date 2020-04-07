@@ -1,4 +1,5 @@
-#### ITSE-1042 Intermediate Python Useful Links
+## ITSE-1042 Intermediate Python Useful Links
+### Useful Links
 https://github.com/cliffjsgit/useful-links/edit/master/links.md
 
 1. Austin Community College   
@@ -46,11 +47,11 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - PythonAnywhere Account - Nominate your teacher (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
 
-5. Class Slides and Information
-- Class 1 Slides, Git Tutorials    
+### Class Slides and Information
+1. Class 1 Slides, Git Tutorials    
    - https://github.com/cliffjsgit/class1-slides
    - https://github.com/cliffjsgit/git-tutorials
-- Class 2 Slides, Python Review Labs
+2. Class 2 Slides, Python Review Labs
    - https://github.com/cliffjsgit/class2-slides
    - https://github.com/cliffjsgit/python-review
    - Think Python   
