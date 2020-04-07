@@ -47,9 +47,12 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
 
 5. Class Slides and Information
-   - Class 1 Slides, Git Tutorials    
-      - https://github.com/cliffjsgit/class1-slides
-      - https://github.com/cliffjsgit/git-tutorials
-   - Class 2 Slides, Python Review Labs
-      - https://github.com/cliffjsgit/python-review
-      - https://github.com/cliffjsgit/python-review
+- Class 1 Slides, Git Tutorials    
+   - https://github.com/cliffjsgit/class1-slides
+   - https://github.com/cliffjsgit/git-tutorials
+- Class 2 Slides, Python Review Labs
+   - https://github.com/cliffjsgit/python-review
+   - https://github.com/cliffjsgit/class2-slides
+
+
+
