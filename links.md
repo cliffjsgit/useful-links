@@ -51,8 +51,8 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://github.com/cliffjsgit/class1-slides
    - https://github.com/cliffjsgit/git-tutorials
 - Class 2 Slides, Python Review Labs
+   - https://github.com/cliffjsgit/class2-slides
    - https://github.com/cliffjsgit/python-review
-   - https://github.com/cliffjsgit/class2-slides/blob/master/slides.md
    - Think Python   
       - http://greenteapress.com/thinkpython2/html/index.html
       - http://greenteapress.com/thinkpython2/thinkpython2.pdf
