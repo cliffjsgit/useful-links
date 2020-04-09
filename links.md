@@ -58,15 +58,15 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
       - http://greenteapress.com/thinkpython2/html/index.html
       - http://greenteapress.com/thinkpython2/thinkpython2.pdf
    - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
- 3. Class 3 Slides, Python Review Labs, 
-   - https://github.com/cliffjsgit/class3-slides
-   - Project 1 - Web page scraping from a web site using BeautifulSoup  
-      - BS4Tutorial.py
-         - https://www.dataquest.io/blog/web-scraping-tutorial-python/ 
-      - Sample program to test Web URLs from PythonAnywhere and a starting PythonAnywhere Whitelist
-         - BS4TestedURLs.txt
-      - Example of starting a project for scraping and saving images from a Web site
-         - project_HTML.py
+ 3. Class 3 Slides, Python Review Labs, BeautifulSoup Web Scraping project   
+    - https://github.com/cliffjsgit/class3-slides 
+    - Project 1 - Web page scraping from a web site using BeautifulSoup
+       - BS4Tutorial.py   
+         - https://www.dataquest.io/blog/web-scraping-tutorial-python/    
+       - Sample program to test Web URLs from PythonAnywhere and a starting PythonAnywhere Whitelist   
+         - BS4TestedURLs.txt   
+       - Example of starting a project for scraping and saving images from a Web site   
+         - project_HTML.py   
   
    
 
