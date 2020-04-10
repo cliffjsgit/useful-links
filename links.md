@@ -51,15 +51,16 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 1. Class 1 Slides, Git Tutorials    
    - https://github.com/cliffjsgit/class1-slides
    - https://github.com/cliffjsgit/git-tutorials
-2. Class 2 Slides, Python Review Labs
+2. Class 2 Slides, Python Review labs
    - https://github.com/cliffjsgit/class2-slides
    - https://github.com/cliffjsgit/python-review
    - Think Python   
       - http://greenteapress.com/thinkpython2/html/index.html
       - http://greenteapress.com/thinkpython2/thinkpython2.pdf
    - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
- 3. Class 3 Slides, Python Review Labs, BeautifulSoup Web Scraping project   
+ 3. Class 3 Slides, chapter-9 labs, BeautifulSoup Web Scraping project   
     - https://github.com/cliffjsgit/class3-slides 
+    - https://github.com/cliffjsgit/chapter-9
     - Project 1 - Web page scraping from a web site using BeautifulSoup
        - BS4Tutorial.py   
          - https://www.dataquest.io/blog/web-scraping-tutorial-python/    
