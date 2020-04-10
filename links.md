@@ -60,7 +60,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
  3. Class 3 Slides, chapter-9 labs, BeautifulSoup Web Scraping project   
     - https://github.com/cliffjsgit/class3-slides 
-    - https://github.com/cliffjsgit/Chapter-9
+    - https://github.com/cliffjsgit/chapter-9
     - Project 1 - Web page scraping from a web site using BeautifulSoup
        - BS4Tutorial.py   
          - https://www.dataquest.io/blog/web-scraping-tutorial-python/    
