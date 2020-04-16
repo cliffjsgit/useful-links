@@ -55,8 +55,8 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://github.com/cliffjsgit/class2-slides
    - https://github.com/cliffjsgit/python-review
    - Think Python   
-      - http://greenteapress.com/thinkpython2/html/index.html
-      - http://greenteapress.com/thinkpython2/thinkpython2.pdf
+      - http://greenteapress.com/thinkpython2/html/index.html   
+      - http://greenteapress.com/thinkpython2/thinkpython2.pdf  
    - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
  3. Class 3 Slides, chapter-9 labs, BeautifulSoup Web Scraping project   
     - https://github.com/cliffjsgit/class3-slides 
