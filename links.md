@@ -68,11 +68,16 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4URLTest.py   
        - Example of starting a project for scraping and saving images from a Web site   
          - https://github.com/cliffjsgit/class3-slides/blob/master/project_HTML.py   
- 3. Class 4 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
+ 4. Class 4 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
     - https://github.com/cliffjsgit/class4-slides   
     - https://github.com/cliffjsgit/chapter-10   
-  
-  
+ 5. Class 5 Slides, chapter-11 and chapter-12 labs
+    - https://github.com/cliffjsgit/class4-slides   
+    - https://github.com/cliffjsgit/chapter-11 
+ 6. Class 6 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
+    - https://github.com/cliffjsgit/class6-slides   
+    - https://github.com/cliffjsgit/chapter-12 
+    
    
 
 
