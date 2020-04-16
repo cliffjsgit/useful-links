@@ -66,6 +66,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
          - https://www.dataquest.io/blog/web-scraping-tutorial-python/    
        - Sample program to test Web URLs from PythonAnywhere and a starting PythonAnywhere Whitelist   
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4URLTest.py   
+         - https://github.com/cliffjsgit/class3-slides/blob/master/BS4TestedURLs.txt
        - Example of starting a project for scraping and saving images from a Web site   
          - https://github.com/cliffjsgit/class3-slides/blob/master/project_HTML.py   
  4. Class 4 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
