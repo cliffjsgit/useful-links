@@ -72,9 +72,9 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
  4. Class 4 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
     - https://github.com/cliffjsgit/class4-slides   
     - https://github.com/cliffjsgit/chapter-10   
- 5. Class 5 Slides, chapter-11 and chapter-12 labs
-    - https://github.com/cliffjsgit/class5-slides   
-    - https://github.com/cliffjsgit/chapter-11 
+ 5. Class 5 Slides, chapter-11 and chapter-12 labs   
+    - https://github.com/cliffjsgit/class5-slides        
+    - https://github.com/cliffjsgit/chapter-11     
  6. Class 6 Slides, chapter-10 labs, BeautifulSoup Web Scraping project  
     - https://github.com/cliffjsgit/class6-slides   
     - https://github.com/cliffjsgit/chapter-12 
