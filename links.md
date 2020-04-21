@@ -64,7 +64,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - Project 1 - Web page scraping from a web site using BeautifulSoup
        - Tutorial: Python Web Scraping Using BeautifulSoup
          - https://www.dataquest.io/blog/web-scraping-tutorial-python/ 
-       - Example of Python web page scraping program using BeautifulSoup
+       - Example of Python web page scraping program using the BeautifulSoup Tutorial
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4Tutorial.py
        - Sample program to test Web URLs from PythonAnywhere and a creating PythonAnywhere Whitelist   
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4URLTest.py   
