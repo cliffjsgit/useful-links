@@ -62,12 +62,12 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/class3-slides 
     - https://github.com/cliffjsgit/chapter-9
     - Project 1 - Web page scraping from a web site using BeautifulSoup
-       - BS4Tutorial.py   
-         - https://www.dataquest.io/blog/web-scraping-tutorial-python/    
+       - Tutorial: Python Web Scraping Using BeautifulSoup
+         - https://www.dataquest.io/blog/web-scraping-tutorial-python/ 
        - Sample program to test Web URLs from PythonAnywhere and a starting PythonAnywhere Whitelist   
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4URLTest.py   
          - https://github.com/cliffjsgit/class3-slides/blob/master/BS4TestedURLs.txt
-       - Example of starting a project for scraping and saving images from a Web site   
+       - Example of starting a project for web scraping and saving images from a Web site   
          - https://github.com/cliffjsgit/class3-slides/blob/master/project_HTML.py   
  4. Class 4 Slides Chapter 10: Lists, Chapter-10 labs, BeautifulSoup Web Scraping project  
     - https://github.com/cliffjsgit/class4-slides   
