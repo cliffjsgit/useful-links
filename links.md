@@ -80,10 +80,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
  6. Class 6 Slides - Chapter 12: Tuples, chapter-12 labs 
     - https://github.com/cliffjsgit/class6-slides   
     - https://github.com/cliffjsgit/chapter-12 
- 
+ 7. Class 7 Slides - Chapter 13: Case Study: data structure, chapter-13 labs
+    - https://github.com/cliffjsgit/class7-slides  
+    - https://github.com/cliffjsgit/chapter-13 
    
-
-
-
-
-
