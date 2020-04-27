@@ -81,6 +81,14 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/class6-slides   
     - https://github.com/cliffjsgit/chapter-12 
  7. Class 7 Slides - Chapter 13: Case Study: data structure, chapter-13 labs
-    - https://github.com/cliffjsgit/class7-slides  
-    - https://github.com/cliffjsgit/chapter-13 
+    - https://github.com/cliffjsgit/class7-slides     
+    - https://github.com/cliffjsgit/chapter-13  
+ 8. Class 8 Slides - Chapter 14: Files, chapter-14 labs, PEP 8 - Python Style Guide
+    - https://github.com/cliffjsgit/class8-slides     
+    - https://github.com/cliffjsgit/chapter-14   
+    - PEP 8 - Style Guide for Python Code   
+      - https://www.python.org/dev/peps/pep-0008/   
+    
+ 
+ 
    
