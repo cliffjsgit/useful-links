@@ -94,7 +94,8 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/class9-slides         
     - https://github.com/cliffjsgit/chapter-15         
     - https://github.com/cliffjsgit/chapter-16     
-    - https://github.com/cliffjsgit/chapter-16   
+    - https://github.com/cliffjsgit/chapter-17   
+  
  
 
     
