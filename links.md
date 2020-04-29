@@ -23,7 +23,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://help.blackboard.com/Collaborate/Ultra  
    - https://help.blackboard.com/Collaborate/Ultra/Participant
    - https://help.blackboard.com/Learn/Student/Interact/Blackboard_Collaborate/Blackboard_Collaborate_With_The_Ultra_Experience 
-   
+        
 3. Linux
 - Linux GNU nano editor document    
    - https://www.nano-editor.org/dist/latest/nano.html
@@ -32,7 +32,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 - The Linux Command Line - By William Shotts   
    - LinuxCommand.org Online - http://linuxcommand.org/     
    - SOURCEFORGE LinuxCommand Line PDF file - https://sourceforge.net/projects/linuxcommand/   
-   
+       
 4. Python 
 - PythonAnywhere Cloud Environment
    - https://www.pythonanywhere.com/   
@@ -46,7 +46,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
    - https://www.pythonanywhere.com/user/your-account-name/account/#upgrade
 - PythonAnywhere Account - Nominate your teacher (use your account name name in link)
    - https://www.pythonanywhere.com/user/your-account-name/account/#teacher
-
+        
 ### Class Slides and Information
 1. Class 1 Slides, Git Tutorials    
    - https://github.com/cliffjsgit/class1-slides
@@ -83,11 +83,21 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
  7. Class 7 Slides - Chapter 13: Case Study: data structure, chapter-13 labs
     - https://github.com/cliffjsgit/class7-slides     
     - https://github.com/cliffjsgit/chapter-13  
- 8. Class 8 Slides - Chapter 14: Files, chapter-14 labs, PEP 8 - Python Style Guide
+ 8. Class 8 Slides - Chapter 14: Files, chapter-14 labs, PEP 8 - Python Style Guide, Print formated string examples
     - https://github.com/cliffjsgit/class8-slides     
     - https://github.com/cliffjsgit/chapter-14   
     - PEP 8 - Style Guide for Python Code   
-      - https://www.python.org/dev/peps/pep-0008/   
+      - https://www.python.org/dev/peps/pep-0008/
+    - Print formated string examples 
+      - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py
+ 9. Class 9: Chapter 15/16/17: Classes and Objects/Functions/Methods       
+    - https://github.com/cliffjsgit/class9-slides         
+    - https://github.com/cliffjsgit/chapter-15         
+    - https://github.com/cliffjsgit/chapter-16     
+    - https://github.com/cliffjsgit/chapter-16   
+ 
+
+    
     
  
  
