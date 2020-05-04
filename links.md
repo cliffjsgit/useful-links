@@ -94,7 +94,13 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/class9-slides         
     - https://github.com/cliffjsgit/chapter-15         
     - https://github.com/cliffjsgit/chapter-16     
-    - https://github.com/cliffjsgit/chapter-17   
+    - https://github.com/cliffjsgit/chapter-17  
+10. Class 10: Chapter 18: Inheritance / Unit Testing   
+    - https://github.com/cliffjsgit/class10-slides   
+    https://github.com/cliffjsgit/chapter-18   
+
+    
+
   
  
 
