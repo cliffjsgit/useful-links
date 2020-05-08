@@ -98,6 +98,17 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
 10. Class 10: Chapter 18: Inheritance / Unit Testing   
     - https://github.com/cliffjsgit/class10-slides   
     - https://github.com/cliffjsgit/chapter-18   
+11: Class 11: Chapter 19: The Goodies / Working With Excel Spreadsheets 
+    - https://github.com/cliffjsgit/class11-slides   
+    - Transforming Code Into Beautiful, Idiomatic Python
+      - Video: https://www.youtube.com/watch?v=OSGv2VnC0go
+      - Notes: https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9
+12. Class 12:
+
+
+    
+   
+
 
     
 
