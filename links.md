@@ -103,14 +103,14 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - Transforming Code Into Beautiful, Idiomatic Python   
       - Video: https://www.youtube.com/watch?v=OSGv2VnC0go   
       - Notes: https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9   
-12. Class 12: Django, Falcon, and Flask - An Overview of Full Stack / Packages / Printing Tabular Information  
-    - https://github.com/cliffjsgit/class12-slides           
-    - https://github.com/cliffjsgit/python-examples   
+12. Class 12: Django, Falcon, and Flask - An Overview of Full Stack / Packages / Printing Tabular Information    
+    - https://github.com/cliffjsgit/class12-slides                
+    - https://github.com/cliffjsgit/python-examples      
       - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py         
       - Installing Packages - Using PIP       
          = pip 20.1 documentation   
             - https://pip.pypa.io/en/stable/quickstart/      
-            - https://pip.pypa.io/en/stable/user_guide/   
-      - Printing Tabular Data     
+            - https://pip.pypa.io/en/stable/user_guide/      
+      - Printing Tabular Data        
          - https://github.com/cliffjsgit/python-examples/blob/master/PrintingTabularData.py      
          
