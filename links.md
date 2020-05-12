@@ -108,7 +108,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/python-examples         
       - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py         
     - Installing Packages - Using PIP       
-      - pip 20.1 documentation   
+      - pip Documentation   
          - https://pip.pypa.io/en/stable/quickstart/      
          - https://pip.pypa.io/en/stable/user_guide/      
     - Printing Tabular Data           
