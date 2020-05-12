@@ -107,7 +107,7 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
     - https://github.com/cliffjsgit/class12-slides                   
     - https://github.com/cliffjsgit/python-examples         
       - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py         
-    - Installing Packages - Using PIP       
+    - The Package Installer for Python - Using pip          
       - pip Documentation   
          - https://pip.pypa.io/en/stable/quickstart/      
          - https://pip.pypa.io/en/stable/user_guide/      
