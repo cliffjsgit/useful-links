@@ -110,7 +110,13 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
          - https://pip.pypa.io/en/stable/quickstart/      
          - https://pip.pypa.io/en/stable/user_guide/      
     - Printing Tabular Data           
-      - https://github.com/cliffjsgit/python-examples         
+      - https://github.com/cliffjsgit/python-examples          
          - https://github.com/cliffjsgit/python-examples/blob/master/PrintStringExamples.py   
-         - https://github.com/cliffjsgit/python-examples/blob/master/PrintingTabularData.py    
+         - https://github.com/cliffjsgit/python-examples/blob/master/PrintingTabularData.py   
+13. Class 13: Useful Modules, Packages and Libraries / Final Project   
+    - [The Python Standard Library](https://docs.python.org/3.8/library/)   
+    - [The Python Wiki - The Python.org Knowledge base](https://wiki.python.org/moin)   
+    - [The Python Wiki - Useful Modules](https://wiki.python.org/moin/UsefulModules)   
+    - [The 30 Best Python Libraries and Packages for Beginners](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)   
+    
          
