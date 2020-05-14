@@ -115,10 +115,8 @@ https://github.com/cliffjsgit/useful-links/edit/master/links.md
          - https://github.com/cliffjsgit/python-examples/blob/master/PrintingTabularData.py   
 13. Class 13: Useful Modules, Packages and Libraries / Final Project   
     - [The Python Standard Library](https://docs.python.org/3.8/library/)   
-    - [The Python Wiki - The Python.org Knowledge base](https://wiki.python.org/moin)   
+    - [The Python Wiki - Python.org Knowledge base, Getting Started](https://wiki.python.org/moin)   
     - [The Python Wiki - Useful Modules, Packages and Libraries](https://wiki.python.org/moin/UsefulModules)   
-    - [The 30 Best Python Libraries and Packages for Beginners](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)      
+    - [The 30 Best Python Libraries and Packages for Beginners](https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/)   
     - [20 Python libraries you can’t live without](https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/)   
-    
-    
          
